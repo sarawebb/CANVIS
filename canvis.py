@@ -35,9 +35,10 @@ translist_path = '/fred/oz100/swebb/open_cands/transients_coo_DWFJun18_RT.txt'
 
 # ---- Starting number and end number of candidates you want to run through canvis ----################
 
-start_num = 46
-end_num = 47
+start_num = 2000
+end_num = 2001
 
+#objects = [36402, 37635, 48373, 36820, 36812, 43784, 38074, 36856, 37653, 7475, 8508, 7419, 8535, 19429, 8617]
 
 ###################-------- Definitions for SkyCoord unit converstions ---------#######################
 
